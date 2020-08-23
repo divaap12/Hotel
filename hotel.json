@@ -2,19 +2,20 @@
 	"hotel":
 			[
 				{
-					"id":1,"nama":"Hotel Harper Purwakarta",
-					"alamat":"Jl. Raya Bungursari No.122, Bungursari, Kabupaten Purwakarta, Jawa Barat 41181",
-					"nomor_telp":"02648642888",
+					"id":1,
+					"nama":"Hotel Imperium Purwokerto",
+					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
+					"nomor_telp":"+62281628000",
 					"kordinat":"-7.417284, 109.244905",
 					"gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/hotel_harper.jpeg"
 				},
 
 				{
 					"id":2,
-					"nama":"Prime Plaza Hotel Purwakarta",
-					"alamat":"Kawasan Industri Kota Bukit Indah Blok L, Cinangka, Bungursari, Cinangka, Bungursari, Kabupaten Purwakarta, Jawa Barat 41181",
-					"nomor_telp":"0264351888",
-					"kordinat":"-6.439420, 107.463123",
+					"nama":"Java Heritage Hotel Purwokerto",
+					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+					"nomor_telp":"+62281634321",
+					"kordinat":"-7.4155654, 109.236551",
 					"gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/2.jpg"
 				}
 			]
