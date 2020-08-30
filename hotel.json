@@ -9,7 +9,8 @@
 					"nomor_telp":"+62281628000",
 					"kordinat":"-7.417284, 109.244905",
 					"gambar_url":"https://cf.bstatic.com/images/hotel/max1024x768/170/17022569.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000"
+					"tarif":"Rp.100.000 - Rp.1.500.000",
+					"fasilitas": "kamar mandi dalam"
 					
 				},
 
@@ -21,7 +22,8 @@
 					"nomor_telp":"+62281634321",
 					"kordinat":"-7.4155654, 109.236551",
 					"gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/2.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000"
+					"tarif":"Rp.100.000 - Rp.1.500.000",
+					"fasilitas": "kamar mandi dalam"
 					
 				}
 			]
