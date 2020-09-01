@@ -3,28 +3,82 @@
 			[
 				{
 					"id":1,
-					"desc":"Aston Imperium Purwokerto amerupakan satu-satunya hotel bintang 4 di Purwokerto, terletak di tengah kota Purwokerto antara Jalan Overste Isdiman dan Jalan Dr Suharso, dengan kantor pemerintah, rumah sakit, Universitas Jenderal Sudirman yang terkenal dan Wijaya Kusuma Golf Course yang menjadikan lokasi ini ideal bagi para pebisnis dan delegasi konferensi. Air Panas Baturaden hanya berjarak 15 menit dengan mobil, dan 10 menit dengan kereta api. Pemandian air panas Baturaden hanya 15 menit berkendara sementara stasiun kereta api Purwokerto hanya 10 menit.",
+					"desc":"Aston Imperium Purwokerto merupakan satu-satunya hotel bintang 4 di Purwokerto, terletak di tengah kota Purwokerto antara Jalan Overste Isdiman dan Jalan Dr Suharso, dengan kantor pemerintah, rumah sakit, Universitas Jenderal Sudirman yang terkenal dan Wijaya Kusuma Golf Course yang menjadikan lokasi ini ideal bagi para pebisnis dan delegasi konferensi. Air Panas Baturaden hanya berjarak 15 menit dengan mobil, dan 10 menit dengan kereta api. Pemandian air panas Baturaden hanya 15 menit berkendara sementara stasiun kereta api Purwokerto hanya 10 menit.",
 					"nama":"Hotel Aston Imperium Purwokerto",
 					"alamat":"Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53114",
 					"nomor_telp":"+62281628000",
 					"kordinat":"-7.417284, 109.244905",
 					"gambar_url":"https://raw.githubusercontent.com/divaap12/Hotel/master/aston.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
+					"tarif":"Mulai dari Rp.771.980",
 					"fasilitas": "Kolam renang, F&B Outlet, Sekar Mas Spa, Gym"
 					
 				},
 
 				{
 					"id":2,
-					"desc":"cJava Heritage Hotel memiliki 169 kamar, mulai dari Deluxe, Suite, Cottages, 16 Ruang Pertemuan, Grand Ballroom, dan ruang pameran. Hotel ini juga memiliki area parkir sangat luas yang mampu menampung 500 mobil; dan juga kolam renang terbesar di Jawa Tengah dengan lebar 96 meter.",
+					"desc":"Java Heritage Hotel memiliki 169 kamar, mulai dari Deluxe, Suite, Cottages, 16 Ruang Pertemuan, Grand Ballroom, dan ruang pameran. Hotel ini juga memiliki area parkir sangat luas yang mampu menampung 500 mobil; dan juga kolam renang terbesar di Jawa Tengah dengan lebar 96 meter.",
 					"nama":"Java Heritage Hotel Purwokerto",
 					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
 					"nomor_telp":"+62281634321",
 					"kordinat":"-7.4155654, 109.236551",
 					"gambar_url":"https://raw.githubusercontent.com/divaap12/Hotel/master/javaheritage.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
+					"tarif":"Mulai dari Rp.595.000",
 					"fasilitas": "Kolam renang terbesar dan terbaik di Jawa Tengah, Gym, klub terbaik di kota (Cheers! Never Ending Party) dan Karaoke Lips, Spa."
 					
 				}
+
+				{
+					"id":3,
+					"desc":"Terletak di jalan yang rindang dan ramai, hotel santai bereksterior penuh warna ini berjarak 10 km dari pusat perbelanjaan dan restoran di RITA SuperMall Purwokerto dan 2 km dari stasiun kereta api Purwokerto. Kamar sederhana dilengkapi Wi-Fi gratis, TV layar datar, brankas, kulkas mini, serta fasilitas pembuat teh dan kopi. Suite memiliki meja makan dan microwave.",
+					"nama":"Wisata Niaga Hotel",
+					"alamat":"Jl. Merdeka No.5, Brubahan, Purwanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53116",
+					"nomor_telp":"+62281642333",
+					"kordinat":"-7.4253521,109.2345803",
+					"gambar_url":"https://cf.bstatic.com/images/hotel/max1280x900/178/178288954.jpg",
+					"tarif":"Mulai dari Rp.156.883",
+					"fasilitas":"Restoran santai, fasilitas karoke, dan minimarket 24 jam, Kolam Renang, WiFi"
+					
+				},
+
+				{
+					"id":4,
+					"desc":"Penginapan yang tenang dan nyaman di Purwokerto, Dominic Hotel Purwokerto adalah sebuah hunian yang nyaman, bersih, dengan desain yang minimalis. Dominic Hotel Purwokerto menawarkan pelayanan yang istimewa dan fasilitas yang akan membuat pengalaman menginap Anda tidak terlupakan, seperti Wi-Fi gratis di semua kamar, TV, AC, restoran, layanan kebersihan, resepsionis yang ramah, Wi-fi di tempat umum, serta beberapa fasilitas yang lainnya.",
+					"nama":"Dominic Hotel Purwokerto",
+					"alamat":"Jl. Komisaris Bambang Suprapto No.39-41, Cigrobak, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53114",
+					"nomor_telp":"+622816574888",
+					"kordinat":"-7.4230377, 109.2445081",
+					"gambar_url":"https://s.misteraladin.com/images/hotel/0000132000/0000131898/dominic-hotel-purwokerto-photo9.jpg",
+					"tarif":"Mulai dari Rp.225.000",
+					"fasilitas":"AC, Restoran, parkir, Lift, WiFi"
+					
+				},
+
+				{
+					"id":5,
+					"desc":"",
+					"nama":"COR Hotel Purwokerto",
+					"alamat":"Jl. Jend. Soedirman No.508 - 511, Kauman Lama, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53141",
+					"nomor_telp":"+622817772777",
+					"kordinat":"-7.4277174,109.2429384",
+					"gambar_url":"",
+					"tarif":"Mulai dari Rp.170.000",
+					"fasilitas":"AC, Restoran, parkir, Lift, WiFi"
+					
+				},
+
+				{
+					"id":6,
+					"desc":"Meotel Purwokerto adalah salah satu akomodasi yang berada di pusat kota Purwokerto, Jawa Tengah, tepatnya di Jalan Dr. Suparno Selatan No 1, Arcawinangun. Hotel ini menawarkan konsep penginapan unik, yakni desain retro dan vintage yang dipadukan dengan sentuhan modern. Konsep tersebut diterapkan pada pemilihan furnitur serta dekorasi kamar tamu. Kesan artistik akan segera dirasakan oleh pengunjung begitu memasuki area kamar. Lukisan di dinding kamar serta penataan interior yang selaras dengan konsep penginapan membuat pengalaman menginap menjadi suatu momen yang sulit dilupakan. Kamar ber-AC di hotel ini terbagi ke dalam dua tipe utama, yaitu Smart Room dan Family Room. Kedua tipe kamar dapat dipesan dengan atau tanpa paket sarapan. Setiap kamar di Hotel Meotel telah dilengkapi dengan sejumlah fasilitas, termasuk TV kabel, meja kerja, brankas, lemari pakaian, dan fasilitas pembuat teh atau kopi. Tipe kamar Family Room yang memiliki ruangan lebih besar bahkan dilengkapi dengan sofa panjang yang nyaman digunakan untuk bersantai. Kamar mandi en suite beserta peralatan mandi lengkap sudah tersedia di seluruh kamar. Fasilitas hotel yang patut dicoba adalah pusat kebugaran serta layanan spa dan pijat kesehatan. Berolahraga atau melepas penat dengan memanfaatkan fasilitas tersebut tentu akan semakin meningkatkan semangat berlibur. Selain sarana untuk memanjakan diri, pihak hotel juga menyediakan fasilitas barbeque yang bisa menambah keseruan liburan bersama teman maupun keluarga. Di samping memenuhi kebutuhan akomodasi saat liburan, Meotel Hotel juga menyediakan fasilitas yang menunjang kebutuhan bisnis dan profesional. Ruang konferensi dan aula pertemuan tersedia beserta fasilitas pendukungnya yang mutakhir, seperti mesin fotokopi, faksimile, dan proyektor. Untuk layanan konektivitas, jaringan LAN serta WiFi gratis dapat digunakan di seluruh area hotel. Tidak jauh berbeda dengan kamar tamu yang mengusung konsep modern vintage, satu dari tiga fasilitas bersantap di Meotel Purwokerto, yakni Ukafe, juga memiliki konsep interior yang sama. Kafe ini terletak di area lobi hotel. Dengan sajian menu yang dihidangkan secara profesional, Ukafe ditujukan bagi pengunjung yang ingin berkumpul bersama teman sambil minum kopi atau menikmati camilan. Dua fasilitas bersantap lainnya adalah Sky Lounge dan Restoran El-resto. Terletak di lantai teratas hotel, Sky Lounge merupakan lokasi ideal untuk menikmati waktu makan malam. Pemandangan Kota Purwokerto di waktu malam serta panorama alam Gunung Slamet yang terlihat dari ketinggian adalah suatu pengalaman yang tidak boleh dilewatkan. Iringan musik jaz yang menjadi bagian dari pelayanan restoran akan melengkapi momen indah tersebut. Sementara itu, Restoran El-resto terletak di lantai dasar, tepatnya di seberang lobi hotel. Sebagai restoran utama di Meotel Hotel Purwokerto, El-resto menyediakan menu makanan untuk sarapan, makan siang, dan makan malam. Menu Asia dengan sistem prasmanan disajikan saat waktu sarapan. Untuk waktu-waktu lainnya, restoran ini memiliki variasi menu hidangan internasional. Selain ragam hidangan yang disajikan di kafe serta restoran hotel, pengunjung juga dapat menikmati menu kuliner daerah dan internasional di sejumlah pusat kuliner ternama yang letaknya tidak jauh dari lokasi Hotel Meotel. Beberapa di antaranya adalah Rumah Makan Djago Jowo dan Pawon Jawa dengan sajian menu tradisional Jawa, serta Malabar Restaurant yang menghadirkan hidangan Asia, Cina, Italia, Amerika, dan Mediterania. Pengunjung pun dapat menyambangi Alun-Alun Purwokerto yang jaraknya hanya 3 km dari hotel. Jika berkunjung bersama keluarga, objek wisata keluarga seperti Lokawisata Baturraden, Taman Lalu Lintas Anak Bangsa, dan Small World, bisa dijadikan destinasi liburan yang menarik. Nyaman, terjangkau, dan strategis, Meotel Purwokerto adalah akomodasi yang cocok dipilih untuk liburan bersama teman dan keluarga maupun keperluan bisnis bersama kolega.",
+					"nama":"Meotel Purwokerto by Dafam",
+					"alamat":"Jl. DR. Soeparno Selatan No.1, Arcawinangun, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53123",
+					"nomor_telp":"+622817771157",
+					"kordinat":"-7.4179839, 109.2524537",
+					"gambar_url":"https://s.misteraladin.com/images/hotel/0000041000/0000040550/meotel-purwokerto-by-dafam-hotels-photo41.jpg",
+					"tarif":"Mulai dari Rp.388.000",
+					"fasilitas":"AC, Restoran, parkir, Lift, WiFi, Kolam Renang"
+					
+				},
+
+
 			]
 }
