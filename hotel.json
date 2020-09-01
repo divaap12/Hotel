@@ -124,10 +124,75 @@
 					"nama":"Hotel Surya Yudha Purwokerto",
 					"alamat":"Jl. Gerilya Barat Tj. No.30A, Gandasuli, Karangpucung, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53142",
 					"nomor_telp":"+622816578080",
-					"kordinat":"",
+					"kordinat":"-7.4406958, 109.2356924",
 					"gambar_url":"https://cf.bstatic.com/images/hotel/max1280x900/224/22435159.jpg",
 					"tarif":"Mulai dari Rp.314.500",
 					"fasilitas":"Ac, Restoran, Kolam Renang, Parkir, Lift, WiFi"
+					
+				},
+
+				{
+					"id":11,
+					"desc":"Menginap di FixOn Capsule Hotel tak hanya memberikan kemudahan untuk mengeksplorasi destinasi petualangan Anda, tapi juga menawarkan kenyamanan bagi istirahat Anda. FixOn Capsule Hotel merupakan hotel rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan bujet, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh. Bagi Anda yang menginginkan kualitas pelayanan oke dengan harga yang ramah di kantong, FixOn Capsule Hotel adalah pilihan yang tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang tetap terjaga mutunya.",
+					"nama":"FixOn Capsule Hotel",
+					"alamat":"Jl. Gerilya Barat Tj. No.30A, Gandasuli, Karangpucung, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53142",
+					"nomor_telp":"+622816578080",
+					"kordinat":"-7.4407011, 109.2356924",
+					"gambar_url":"https://pix10.agoda.net/hotelImages/574/5743910/5743910_18082810430067700541.jpg",
+					"tarif":"Mulai dari Rp.113.500",
+					"fasilitas":"Parkir, WiFi"
+					
+				},
+
+				{
+					"id":12,
+					"desc":"Bagi Anda yang menginginkan kualitas pelayanan oke dengan harga yang ramah di kantong, Hotel D'Ben adalah pilihan yang tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang tetap terjaga mutunya. Hotel D'Ben memiliki segala fasilitas penunjang bisnis untuk Anda dan kolega.",
+					"nama":"Hotel D'Ben",
+					"alamat":"Jl. Kranji No.60, Brubahan, Purwanegara, Kec. Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53116",
+					"nomor_telp":"+622816510168",
+					"kordinat":"-7.423851, 109.232545",
+					"gambar_url":"https://dbenhotel.com/wp-content/uploads/2015/09/hotel-dben-collage.jpg",
+					"tarif":"Mulai dari Rp.240.964",
+					"fasilitas":"Ac, Restoran, Parkir, Lift, WiFi"
+					
+				},
+
+				{
+					"id":13,
+					"desc":"hotel ini adalah pilihan tepat bagi Anda dan pasangan yang ingin menikmati liburan romantis. Dapatkan pengalaman yang penuh kesan bersama pasangan dengan menginap di Green Valley Resort Baturraden Purwokerto. hotel ini adalah pilihan yang pas jika Anda mencari liburan yang tenang dan jauh dari keramaian. Pelayanan memuaskan serta fasilitas hotel yang memadai akan membuat Anda nyaman berada di Green Valley Resort Baturraden Purwokerto. Tersedia kolam renang untuk Anda bersantai sendiri maupun bersama teman dan keluarga.",
+					"nama":"Green Valley Resort Baturraden Purwokerto",
+					"alamat":"Jl. Raya Baturaden, Dusun III, Karangtengah, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
+					"nomor_telp":"+62281681123",
+					"kordinat":"-7.33757,109.2291336",
+					"gambar_url":"https://www.travelindo.com/images/upload/central_java/green_valley/greenvalley.jpg",
+					"tarif":"Mulai dari Rp.500.000",
+					"fasilitas":"Ac, Restoran, Kolam Renang, Parkir, WiFi"
+					
+				},
+
+				{
+					"id":14,
+					"desc":"Hayden Inn merupakan akomodasi rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan bujet, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh. Bagi Anda yang menginginkan kualitas pelayanan oke dengan harga yang ramah di kantong, Hayden Inn adalah pilihan yang tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang tetap terjaga mutunya.",
+					"nama":"Hayden Inn",
+					"alamat":"Jln.Gelora Indah I Gang Baseball/Gang ll no :3 RT.:06 Rw:/RW.02 Kel, Arcawinangun, Purwokerto Lor, East Purwokerto, Banyumas, Central Java 53114",
+					"nomor_telp":"+622816849668",
+					"kordinat":"-7.4176674, 109.2489327",
+					"gambar_url":"https://cf.bstatic.com/images/hotel/max1024x768/244/244334817.jpg",
+					"tarif":"Mulai dari Rp.178.000",
+					"fasilitas":"Ac, WiFi, Parkir, Restoran"
+					
+				},
+
+				{
+					"id":15,
+					"desc":"Menginap di M-Griya Guesthouse tak hanya memberikan kemudahan untuk mengeksplorasi destinasi petualangan Anda, tapi juga menawarkan kenyamanan bagi istirahat Anda. M-Griya Guesthouse merupakan akomodasi rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan bujet, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh. Bagi Anda yang menginginkan kualitas pelayanan oke dengan harga yang ramah di kantong, M-Griya Guesthouse adalah pilihan yang tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang tetap terjaga mutunya.",
+					"nama":"M-Griya Guesthouse",
+					"alamat":"Jl. Dr. Gumbreg No.8, Tanahgaring, Pamijen, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53112",
+					"nomor_telp":"+62281638835",
+					"kordinat":"-7.4354605, 109.2672115",
+					"gambar_url":"https://media.datahc.com/HI290843761.jpg",
+					"tarif":"Mulai dari Rp.264.000",
+					"fasilitas":"Ac, Restoran, Parkir, WiFi"
 					
 				}
 
