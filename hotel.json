@@ -120,7 +120,7 @@
 
 				{
 					"id":10,
-					"desc":"",
+					"desc":"Hotel Surya Yudha Purwokerto memiliki segala fasilitas penunjang bisnis untuk Anda dan kolega. hotel ini adalah pilihan yang pas jika Anda mencari liburan yang tenang dan jauh dari keramaian. Pelayanan memuaskan serta fasilitas hotel yang memadai akan membuat Anda nyaman berada di Hotel Surya Yudha Purwokerto.",
 					"nama":"Hotel Surya Yudha Purwokerto",
 					"alamat":"Jl. Gerilya Barat Tj. No.30A, Gandasuli, Karangpucung, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53142",
 					"nomor_telp":"+622816578080",
@@ -192,6 +192,71 @@
 					"kordinat":"-7.4354605, 109.2672115",
 					"gambar_url":"https://media.datahc.com/HI290843761.jpg",
 					"tarif":"Mulai dari Rp.264.000",
+					"fasilitas":"Ac, Restoran, Parkir, WiFi"
+					
+				},
+
+				{
+					"id":16,
+					"desc":"",
+					"nama":"Palapa Hotel",
+					"alamat":"Jl. S. Parman No.283, Karangbawang, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"nomor_telp":"+62281636693",
+					"kordinat":"-7.4335901, 109.2419753",
+					"gambar_url":"https://2.bp.blogspot.com/-KUGEvHmQcI4/VCDeMb2q-MI/AAAAAAAAAD8/tD6XPaZTbLA/s280/IMG_9793.JPG",
+					"tarif":"Mulai dari Rp.206.000",
+					"fasilitas":"Ac, Restoran, Parkir, WiFi, Kolam Renang"
+					
+				},
+
+				{
+					"id":17,
+					"desc":"Menginap di Grand Kanaya Baturraden tak hanya memberikan kemudahan untuk mengeksplorasi destinasi petualangan Anda, tapi juga menawarkan kenyamanan bagi istirahat Anda. Jika Anda memiliki agenda kegiatan yang membutuhkan ruangan besar, maka Grand Kanaya Baturraden adalah pilihan yang tepat. Hotel ini memiliki ruang pertemuan yang luas dan dilengkapi dengan berbagai fasilitas penunjang. hotel ini adalah pilihan tepat bagi Anda dan pasangan yang ingin menikmati liburan romantis. Dapatkan pengalaman yang penuh kesan bersama pasangan dengan menginap di Grand Kanaya Baturraden.",
+					"nama":"Grand Kanaya Baturraden",
+					"alamat":"Jalan Raya Baturaden Barat No. 163, RT. 07 / RW. 02, Ketenger, Baturraden, Dusun I Karangmangu, Karangmangu, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
+					"nomor_telp":"+622816871005",
+					"kordinat":"-7.3174751, 109.2253641",
+					"gambar_url":"https://www.purwokertoguidance.com/wp-content/uploads/2016/10/Hotel-Grand-Kanaya.jpg",
+					"tarif":"Mulai dari Rp.350.000",
+					"fasilitas":"Ac, Restoran, Parkir, WiFi, Kolam Renang"
+					
+				},
+
+				{
+					"id":18,
+					"desc":"Queen Garden Hotel Baturraden adalah hotel di lokasi yang baik, tepatnya berada di Baturraden. Selain letaknya yang strategis, Queen Garden Hotel Baturraden juga merupakan hotel dekat Telaga Sunyi berjarak sekitar 0,83 km dan Air Terjun Sendang Bidadari berjarak sekitar 0,81 km.",
+					"nama":"Queen Garden Hotel Baturraden",
+					"alamat":"Jl. Perhutani No.38, Dusun II, Karangsalam, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
+					"nomor_telp":"+62281681688",
+					"kordinat":"-7.3123838, 109.2358833",
+					"gambar_url":"https://media.datahc.com/HI560632707.jpg",
+					"tarif":"Mulai dari Rp.330.000",
+					"fasilitas":"Restoran, Kolam Renang, Parkir, WiFi"
+					
+				},
+
+				{
+					"id":19,
+					"desc":"Hotel Besar Purwokerto merupakan hotel rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan bujet, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh. Bagi Anda yang menginginkan kualitas pelayanan oke dengan harga yang ramah di kantong, Hotel Besar Purwokerto adalah pilihan yang tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang tetap terjaga mutunya.",
+					"nama":"Hotel Besar Purwokerto",
+					"alamat":"Jl. Jend. Soedirman Jl. Kauman Lama No.732, Kauman Lama, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+					"nomor_telp":"+6228163611",
+					"kordinat":"-7.42781, 109.2446718",
+					"gambar_url":"https://cf.bstatic.com/images/hotel/max1024x768/140/140375215.jpg",
+					"tarif":"Mulai dari Rp.94.000",
+					"fasilitas":"Restoran, Ac, Parkir, WiFi"
+					
+				},
+
+				{
+					"id":20,
+					"desc":"Papillon Hotel Purwokerto adalah tempat bermalam yang tepat bagi Anda yang berlibur bersama keluarga. Nikmati segala fasilitas hiburan untuk Anda dan keluarga. Jika Anda berniat menginap dalam jangka waktu yang lama, Papillon Hotel Purwokerto adalah pilihan tepat. Berbagai fasilitas yang tersedia dan kualitas pelayanan yang baik akan membuat Anda merasa sedang berada di rumah sendiri.",
+					"nama":"Papillon Hotel Purwokerto",
+					"alamat":"Jl. Perintis Kemerdekaan No.168, Gandasuli, Karangpucung, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53142",
+					"nomor_telp":"+622816577888",
+					"kordinat":"-7.4386936, 109.2337286",
+					"gambar_url":"https://static.tiket.photos/image/upload/t_htl-mble/v1589363832/tix-hotel/images-web/2020/05/13/bde7b5fb-a2e6-4446-bd14-4a3f70bc0192-1589363831828-d41d8cd98f00b204e9800998ecf8427e.jpg",
+					"tarif":"Mulai dari Rp.232.000",
 					"fasilitas":"Ac, Restoran, Parkir, WiFi"
 					
 				}
